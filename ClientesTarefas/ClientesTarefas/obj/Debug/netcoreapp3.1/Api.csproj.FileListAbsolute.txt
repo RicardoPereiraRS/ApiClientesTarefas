@@ -32,3 +32,7 @@ C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTa
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\Api.dll
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\Api.pdb
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll

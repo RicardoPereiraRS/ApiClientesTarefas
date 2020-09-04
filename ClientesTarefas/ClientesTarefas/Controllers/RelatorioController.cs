@@ -13,13 +13,11 @@ namespace Api.Controllers
 	[ApiController]
 	public class RelatorioController : ControllerBase
 	{
-		private ITarefaServico _tarefaServico;
 
 		private IRelatorioServico _relatorioServico;
 
-		public RelatorioController(ITarefaServico tarefaServico, IRelatorioServico relatorioServico)
+		public RelatorioController(IRelatorioServico relatorioServico)
 		{
-			_tarefaServico = tarefaServico;
 
 			_relatorioServico = relatorioServico;
 		}

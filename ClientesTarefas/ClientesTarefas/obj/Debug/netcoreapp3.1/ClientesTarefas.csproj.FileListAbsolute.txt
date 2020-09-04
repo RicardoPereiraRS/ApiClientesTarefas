@@ -1,0 +1,68 @@
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.exe
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.deps.json
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.runtimeconfig.json
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.runtimeconfig.dev.json
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.pdb
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Aplicacao.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Aplicacao.pdb
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.csprojAssemblyReference.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.AssemblyInfoInputs.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.AssemblyInfo.cs
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.csproj.CoreCompileInputs.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.RazorTargetAssemblyInfo.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.csproj.CopyComplete
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\staticwebassets\ClientesTarefas.StaticWebAssets.Manifest.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\staticwebassets\ClientesTarefas.StaticWebAssets.xml
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.pdb
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.genruntimeconfig.cache
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.exe
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.deps.json
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.runtimeconfig.json
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.runtimeconfig.dev.json
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\ClientesTarefas.pdb
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Aplicacao.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Aplicacao.pdb
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.csprojAssemblyReference.cache
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.AssemblyInfoInputs.cache
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.AssemblyInfo.cs
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.csproj.CoreCompileInputs.cache
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.RazorTargetAssemblyInfo.cache
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.csproj.CopyComplete
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\staticwebassets\ClientesTarefas.StaticWebAssets.Manifest.cache
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\staticwebassets\ClientesTarefas.StaticWebAssets.xml
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.dll
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.pdb
+C:\Users\joserr\Desktop\ClientesTarefas\ClientesTarefas\obj\Debug\netcoreapp3.1\ClientesTarefas.genruntimeconfig.cache

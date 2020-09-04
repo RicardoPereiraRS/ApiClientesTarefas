@@ -1,0 +1,24 @@
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.deps.json
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csprojAssemblyReference.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfo.cs
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CopyComplete
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.deps.json
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csprojAssemblyReference.cache
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfo.cs
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CopyComplete
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\joserr\Desktop\ClientesTarefas\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.pdb

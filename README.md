@@ -14,4 +14,4 @@ GET,   HOST/clientes/id, busca um cliente
 
 GET,   HOST/clientes/id/tarefas, busca todas as tarefas de um cliente
 
-GET,   HOST/clientes/relatorio,  busca todas as tarefas de todos os clintes
+GET,   HOST/clientes/relatorio,  busca todas as tarefas de todos os clientes

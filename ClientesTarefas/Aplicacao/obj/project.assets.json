@@ -728,11 +728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Aplicacao\\Aplicacao.csproj",
+      "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Aplicacao\\Aplicacao.csproj",
       "projectName": "Aplicacao",
-      "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Aplicacao\\Aplicacao.csproj",
+      "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Aplicacao\\Aplicacao.csproj",
       "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Aplicacao\\obj\\",
+      "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Aplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -751,11 +751,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Dominio\\Dominio.csproj"
+            "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Infraestrutura\\Infraestrutura.csproj": {
-              "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Infraestrutura\\Infraestrutura.csproj"
+            "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Infraestrutura\\Infraestrutura.csproj": {
+              "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Infraestrutura\\Infraestrutura.csproj"
             }
           }
         }

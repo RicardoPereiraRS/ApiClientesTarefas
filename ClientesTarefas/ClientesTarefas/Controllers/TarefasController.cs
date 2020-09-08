@@ -34,7 +34,7 @@ namespace Api.Controllers
 
 		public async Task<TarefaModel> InccluirTarefaAsync(int id, [FromBody] Tarefa tarefa)
 		{
-			return await _tarefaServico.IncluirTarefaAsync(id, tarefa.DescricaoTarefa);
+			return await _tarefaServico.IncluirTarefaAsync(id, tarefa.Descricao);
 		}
 	
 	}

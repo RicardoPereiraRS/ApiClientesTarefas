@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Aplicacao;
+using Dominio;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -24,9 +25,12 @@ namespace Api.Controllers
 
 		// Lista todos os clientes e suas tarefas
 		[HttpGet]
-		public async Task<IEnumerable<RelatorioModel>> GetRelatorioAsync()
+		public  async Task<IEnumerable<RelatorioCliente>> GetRelatorioAsync()
 		{
+		
 			return await _relatorioServico.BuscarTodosClientesETarefasAsync();
+		
+		
 		}
 
 	}

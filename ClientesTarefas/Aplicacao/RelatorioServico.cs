@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Dominio;
 using Infraestrutura;
@@ -15,32 +13,12 @@ namespace Aplicacao
 			_relatorioRepositorio = relatorioRepositorio;
 		}
 		
-		public async Task<IEnumerable<RelatorioModel>> BuscarTodosClientesETarefasAsync()
+		public async Task<IEnumerable<RelatorioCliente>> BuscarTodosClientesETarefasAsync()
 		{
-			var relatorioDominio = await _relatorioRepositorio.BuscarTodosClientesETarefasAsync();
+			var relatorio = await _relatorioRepositorio.BuscarTodosClientesETarefasAsync();
 
-			List<RelatorioModel> relatorioModel = new List<RelatorioModel>();
 
-		
-
-			foreach (Relatorio relatorio in relatorioDominio)
-			{
-				relatorioModel.Add(new RelatorioModel
-				{
-					Id = relatorio.Id,
-					IdCliente = relatorio.IdCliente,
-					Nome = relatorio.Nome,
-					DescricaoTarefa = relatorio.DescricaoTarefa
-				});
-			}
-
-			// retorna null se não encontra dados
-			if (relatorioModel.Count == 0)
-			{
-				return null;
-			}
-
-			return relatorioModel;
+			return relatorio;
 		}
 	}
 }

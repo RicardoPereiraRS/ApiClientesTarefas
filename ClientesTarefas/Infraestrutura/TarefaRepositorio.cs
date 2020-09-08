@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Dapper;
 using Dominio;
@@ -25,11 +24,10 @@ namespace Infraestrutura
 
 				var tarefaDominio = await connection.QueryAsync<Tarefa>
 					("SELECT t.ID,t.ID_CLIENTE AS idCliente,c.NOME AS nomeCliente," +
-					"t.descricao as descricaoTarefa FROM CLIENTE c " +
+					"t.descricao FROM CLIENTE c " +
 					"INNER JOIN TAREFA t " +
 					"ON c.id = t.ID_CLIENTE " +
 					"WHERE c.id=@id", new { id });
-
 
 				return tarefaDominio.ToList();
 			}

@@ -10,7 +10,7 @@ namespace Dominio
 
 		public int IdCliente { get; set; }
 
-		public string DescricaoTarefa { get; set; }
+		public string Descricao { get; set; }
 
 		public string NomeCliente { get; set; }
 	}

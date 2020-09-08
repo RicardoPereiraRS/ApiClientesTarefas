@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKdeioFI8oVr3y2Tu+XH5HVpq+Nah+JV/cmATkva8y1BtSyIMUSPWIXVGZDQYBzKYKcEb4Ma+ujCfDEtl8utHw==",
+  "dgSpecHash": "1qx6WRZ50LW8NVmWRfXswaEEvg+ATZyO333ORr7Xu2f07rb8xa/32QibNYiJJI2otpmYa4MDZ45hcYRyHr7keg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

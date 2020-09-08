@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
-using System.Text;
 using System.Threading.Tasks;
 using Dominio;
 using Infraestrutura;
@@ -61,7 +59,7 @@ namespace Aplicacao
 					Id = tarefa.Id,
 					IdCliente = tarefa.IdCliente,
 					NomeCliente = tarefa.NomeCliente,
-					Descricao = tarefa.DescricaoTarefa
+					Descricao = tarefa.Descricao
 				});
 			}
 

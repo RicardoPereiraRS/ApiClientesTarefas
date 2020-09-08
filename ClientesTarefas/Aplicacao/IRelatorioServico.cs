@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using Dominio;
 
 namespace Aplicacao
 {
 	public interface IRelatorioServico
 	{
-		Task<IEnumerable<RelatorioModel>> BuscarTodosClientesETarefasAsync();
+		Task<IEnumerable<RelatorioCliente>> BuscarTodosClientesETarefasAsync();
 	}
 }

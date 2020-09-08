@@ -1,13 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices.ComTypes;
-using System.Text;
 using System.Threading.Tasks;
-using Infraestrutura;
 using Dominio;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Data;
+using Infraestrutura;
 
 namespace Aplicacao
 {

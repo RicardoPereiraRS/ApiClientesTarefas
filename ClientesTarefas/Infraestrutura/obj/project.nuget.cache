@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZKhqHInYqQUThrX5qXwrpkh0XFfy/bB4CkwSxs152OtYxGrI9qDm9VW/jCE/Sq/dG3Bt1Hzx74WYtL6+bFTTg==",
+  "dgSpecHash": "W0XWc2gZsCh72rc6UdoahowOVSZGGUNuU2eUmqle2SiKzgRxTar3AMwanS+7jsB1NTLj6Jw+gIg0qTPVdjCejg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas - Copia\\Infraestrutura\\Infraestrutura.csproj",
+  "projectFilePath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Infraestrutura\\Infraestrutura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joserr\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\joserr\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.8.20407.11\\microsoft.extensions.configuration.5.0.0-preview.8.20407.11.nupkg.sha512",

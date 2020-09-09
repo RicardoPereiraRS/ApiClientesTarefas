@@ -20,7 +20,7 @@ namespace Aplicacao
 
 		public async Task<TarefaModel> IncluirTarefaAsync(int id, DateTime data, string descricao)
 		{
-		data=	data.AddYears(2000);
+			data = data.AddYears(2000);
 
 			// se parametro descricao ausente
 			if (!TarefaModel.DescricaoTarefaValida(descricao))
@@ -54,15 +54,14 @@ namespace Aplicacao
 		{
 			var tarefaDominio = await _tarefaRepositorio.BuscarTodasTarefasClientesAsync(id);
 
-			var tarefaModel = from tarefa in tarefaDominio
-							  select new TarefaModel()
-							  {
-								  Id = tarefa.Id,
-								  DataCriacao = tarefa.DataCriacao,
-								  IdCliente = tarefa.IdCliente,
-								  NomeCliente = tarefa.NomeCliente,
-								  Descricao = tarefa.Descricao
-							  };
+			var tarefaModel = tarefaDominio.Select(tarefa => new TarefaModel()
+			{
+				Id = tarefa.Id,
+				DataCriacao = tarefa.DataCriacao,
+				IdCliente = tarefa.IdCliente,
+				NomeCliente = tarefa.NomeCliente,
+				Descricao = tarefa.Descricao
+			});
 
 			// se não tem dados retorna null
 			if (tarefaModel.Count() == 0)
@@ -90,17 +89,15 @@ namespace Aplicacao
 			var tarefaDominio = await _tarefaRepositorio.
 				BuscarTarefasContendoEDataMaiorAsync();
 
-			// filtra descrição contendo e data maior que.
-			var tarefaModel = from tarefa in tarefaDominio
-							  where (tarefa.Descricao.Contains(contem) && tarefa.DataCriacao > data)
-							  select new TarefaModel()
-							  {
-								  Id = tarefa.Id,
-								  DataCriacao = tarefa.DataCriacao,
-								  IdCliente = tarefa.IdCliente,
-								  NomeCliente = tarefa.NomeCliente,
-								  Descricao = tarefa.Descricao
-							  };
+			var tarefaModel = tarefaDominio.Where(tarefa => tarefa.Descricao.Contains(contem) &&
+			tarefa.DataCriacao > data).Select(tarefa => new TarefaModel()
+			{
+				Id = tarefa.Id,
+				DataCriacao = tarefa.DataCriacao,
+				IdCliente = tarefa.IdCliente,
+				NomeCliente = tarefa.NomeCliente,
+				Descricao = tarefa.Descricao
+			});
 
 			// se não tem dados retorna null
 			if (tarefaModel.Count() == 0)

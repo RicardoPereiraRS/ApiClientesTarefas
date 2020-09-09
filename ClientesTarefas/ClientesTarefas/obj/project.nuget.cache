@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lECSmWriKAT8Y8UA7gHtz1uLd5OeoB/CL28mCJquJmddLKgbveWXA49rsjXw03iD4hcG7m/ZdXH115U3Dm+X5Q==",
+  "dgSpecHash": "uh4BtxQFHuk1f9hE99JXALFsQItifvuviNTGNdNgLd8AEmBaNFT5KE/Jo3ngG/eEGYI7KHQpLhcbkaBL9XQxzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
+  "projectFilePath": "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joserr\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\joserr\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.8.20407.11\\microsoft.extensions.configuration.5.0.0-preview.8.20407.11.nupkg.sha512",

@@ -40,3 +40,17 @@ C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefasMap\Aplicac
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefasMap\Aplicacao\bin\Debug\netcoreapp3.1\Dominio.pdb
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefasMap\Aplicacao\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefasMap\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.csproj.CopyComplete
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Aplicacao.deps.json
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Aplicacao.dll
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Aplicacao.pdb
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.csprojAssemblyReference.cache
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.AssemblyInfoInputs.cache
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.AssemblyInfo.cs
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.csproj.CoreCompileInputs.cache
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.csproj.CopyComplete
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.dll
+C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.pdb

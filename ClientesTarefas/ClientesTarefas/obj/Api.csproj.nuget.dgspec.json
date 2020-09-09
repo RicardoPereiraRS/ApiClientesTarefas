@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\ClientesTarefas\\Api.csproj": {}
+    "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj": {
+    "C:\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
+        "projectUniqueName": "C:\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
         "projectName": "Aplicacao",
-        "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
+        "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
         "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\obj\\",
+        "outputPath": "C:\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
-                "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
+              "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
+                "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\ClientesTarefas\\Api.csproj": {
+    "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
+        "projectUniqueName": "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
+        "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
         "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\ClientesTarefas\\obj\\",
+        "outputPath": "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,11 +89,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj": {
-                "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj"
+              "C:\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj": {
+                "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj"
               },
-              "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
-                "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
+              "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
+                "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj": {
+    "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\obj\\",
+        "outputPath": "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -189,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
+    "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj",
+        "projectUniqueName": "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj",
         "projectName": "Infraestrutura",
-        "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj",
+        "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj",
         "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\obj\\",
+        "outputPath": "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -215,8 +215,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj"
+              "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj"
               }
             }
           }

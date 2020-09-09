@@ -73,24 +73,44 @@ namespace Aplicacao
 		}
 
 		public async Task<IEnumerable<TarefaModel>> BuscarTarefasContendoEDataMaiorAsync
-			(string contem, string dataMaiorQue)
+			(string? contem, string? dataMaiorQue)
 		{
 
-			if (string.IsNullOrEmpty(contem))
+			if (string.IsNullOrEmpty(contem) && string.IsNullOrEmpty(dataMaiorQue))
 			{
-				throw new Exception("Parâmetro 'contem' inválido.");
+				throw new Exception("Parâmetro(s) inválido(s) ou ausente(s).");
 			}
 
-			if (!DateTime.TryParse(dataMaiorQue, out DateTime data))
+			DateTime? data = null;
+
+			if (!string.IsNullOrEmpty(dataMaiorQue))
 			{
-				throw new Exception("Parâmetro 'dataMaiorQue' inválido.");
+				if (!DateTime.TryParse(dataMaiorQue, out DateTime tmpData))
+				{
+					throw new Exception("Parâmetro 'dataMaiorQue' inválido.");
+				}
+				data = tmpData;
 			}
+
+
 
 			var tarefaDominio = await _tarefaRepositorio.
 				BuscarTarefasContendoEDataMaiorAsync();
 
-			var tarefaModel = tarefaDominio.Where(tarefa => tarefa.Descricao.Contains(contem) &&
-			tarefa.DataCriacao > data).Select(tarefa => new TarefaModel()
+
+			if (!string.IsNullOrEmpty(contem))
+			{
+				tarefaDominio = tarefaDominio.Where(tarefa => tarefa.Descricao.Contains(contem));
+
+			}
+
+			if (!(data == null))
+			{
+				tarefaDominio = tarefaDominio.Where(tarefa => tarefa.DataCriacao > data);
+			}
+
+
+			var tarefaModel = tarefaDominio.Select(tarefa => new TarefaModel()
 			{
 				Id = tarefa.Id,
 				DataCriacao = tarefa.DataCriacao,
@@ -98,6 +118,7 @@ namespace Aplicacao
 				NomeCliente = tarefa.NomeCliente,
 				Descricao = tarefa.Descricao
 			});
+
 
 			// se não tem dados retorna null
 			if (tarefaModel.Count() == 0)

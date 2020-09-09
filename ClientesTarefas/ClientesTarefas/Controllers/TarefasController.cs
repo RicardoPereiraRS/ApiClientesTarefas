@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
 using Aplicacao;
-using Dominio;
+using Microsoft.AspNetCore.Mvc;
+
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -28,14 +27,20 @@ namespace Api.Controllers
 		{
 			return await _tarefaServico.BuscarTodasTarefasClientesAsync(id);
 		}
+		[HttpGet]
+		public async Task<IEnumerable<TarefaModel>> GetTarefasAsync(string contem, string dataMaiorQue)
+		{
+
+			return await _tarefaServico.BuscarTarefasContendoEDataMaiorAsync(contem, dataMaiorQue);
+		}
 
 		// Inclui uma tarefa para um cliente cadastrado.
 		[HttpPost("{id}")]
 
-		public async Task<TarefaModel> InccluirTarefaAsync(int id, [FromBody] Tarefa tarefa)
+		public async Task<TarefaModel> InccluirTarefaAsync(int id, [FromBody] TarefaModel tarefa)
 		{
-			return await _tarefaServico.IncluirTarefaAsync(id, tarefa.Descricao);
+			return await _tarefaServico.IncluirTarefaAsync(id, tarefa.DataCriacao, tarefa.Descricao);
 		}
-	
+
 	}
 }

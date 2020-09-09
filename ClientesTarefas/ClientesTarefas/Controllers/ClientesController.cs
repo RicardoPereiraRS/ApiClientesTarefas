@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
 using Aplicacao;
-using Dominio;
-using System.Data.SqlClient;
-using Infraestrutura;
+using Microsoft.AspNetCore.Mvc;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace ClientesTarefas.Controllers
@@ -41,7 +36,7 @@ namespace ClientesTarefas.Controllers
 		// Inclui um cliente novo.
 		[HttpPost]
 
-		public async Task<ClienteModel> PostAsync([FromBody] Cliente cliente)
+		public async Task<ClienteModel> PostAsync([FromBody] ClienteModel cliente)
 		{
 			return await _clienteServico.IncluirClienteAsync(cliente.Nome);
 		}

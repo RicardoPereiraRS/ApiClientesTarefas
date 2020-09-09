@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Text;
 
 namespace Aplicacao
@@ -14,6 +15,7 @@ namespace Aplicacao
 
 		public string NomeCliente { get; set; }
 
+		public DateTime DataCriacao { get; set; }
 
 		public static string LimitarTamanhoDescricaoTarefa(string descricao)
 		{
@@ -30,7 +32,6 @@ namespace Aplicacao
 		{
 			return !string.IsNullOrEmpty(descricao);
 		}
-
 
 	}
 }

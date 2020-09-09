@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
 using Aplicacao;
-using Dominio;
+using Microsoft.AspNetCore.Mvc;
+
+
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -25,10 +24,11 @@ namespace Api.Controllers
 
 		// Lista todos os clientes e suas tarefas
 		[HttpGet]
-		public  async Task<IEnumerable<RelatorioCliente>> GetRelatorioAsync()
+		public  async Task<IEnumerable<RelatorioClienteModel>> GetRelatorioAsync()
 		{
+
 		
-			return await _relatorioServico.BuscarTodosClientesETarefasAsync();
+			return await  _relatorioServico.BuscarTodosClientesETarefasAsync();
 		
 		
 		}

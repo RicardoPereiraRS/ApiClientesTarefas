@@ -20,7 +20,7 @@ namespace Infraestrutura
 			using (var connection = _conexao.RetornaConexao())
 			{
 				string sq = "SELECT c.ID as Id,c.NOME as Nome," +
-					"t.ID as IdTarefa, t.DESCRICAO " +
+					"t.ID as IdTarefa,t.DATA_CRIACAO AS DataCriacao, t.DESCRICAO " +
 					"FROM CLIENTE c " +
 					"INNER JOIN TAREFA t " +
 					"ON c.id = t.ID_CLIENTE";

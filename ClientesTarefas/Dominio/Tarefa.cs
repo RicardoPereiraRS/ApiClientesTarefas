@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Text;
 
 namespace Dominio
@@ -13,5 +14,7 @@ namespace Dominio
 		public string Descricao { get; set; }
 
 		public string NomeCliente { get; set; }
+
+		public DateTime DataCriacao { get; set; }
 	}
 }

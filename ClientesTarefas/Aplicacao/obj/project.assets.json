@@ -717,7 +717,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Dominio >= 1.0.0",
       "Infraestrutura >= 1.0.0"
     ]
   },
@@ -728,11 +727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Aplicacao\\Aplicacao.csproj",
+      "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
       "projectName": "Aplicacao",
-      "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Aplicacao\\Aplicacao.csproj",
+      "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
       "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Aplicacao\\obj\\",
+      "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Aplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -751,11 +750,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj"
-            },
-            "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Infraestrutura\\Infraestrutura.csproj": {
-              "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Infraestrutura\\Infraestrutura.csproj"
+            "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
+              "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
             }
           }
         }
@@ -783,7 +779,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

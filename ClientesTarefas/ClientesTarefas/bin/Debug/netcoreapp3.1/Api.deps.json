@@ -462,7 +462,6 @@
       "System.Security.Principal.Windows/4.7.0": {},
       "Aplicacao/1.0.0": {
         "dependencies": {
-          "Dominio": "1.0.0",
           "Infraestrutura": "1.0.0"
         },
         "runtime": {

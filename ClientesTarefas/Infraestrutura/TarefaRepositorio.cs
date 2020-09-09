@@ -32,18 +32,33 @@ namespace Infraestrutura
 				return tarefaDominio.ToList();
 			}
 		}
+		public async Task<IEnumerable<Tarefa>> BuscarTarefasContendoEDataMaiorAsync()
+		{
+			using (var connection = _conexao.RetornaConexao())
+			{
 
-		public async Task<int> IncluirTarefaAsync(int id, string descricao)
+				var tarefaDominio = await connection.QueryAsync<Tarefa>
+					("SELECT t.ID,t.ID_CLIENTE AS idCliente,t.DATA_CRIACAO AS DataCriacao," +
+					"c.NOME AS nomeCliente,t.descricao " +
+					"FROM CLIENTE c " +
+					"INNER JOIN TAREFA t " +
+					"ON c.id = t.ID_CLIENTE ");
+
+				return tarefaDominio.ToList();
+			}
+		}
+
+		public async Task<int> IncluirTarefaAsync(int id, DateTime data, string descricao)
 		{
 			using (SqlConnection cn = _conexao.RetornaConexao())
 			{
 				try
 				{
 					int idInserido = await cn.QuerySingleAsync<int>
-							("INSERT INTO TAREFA (ID_CLIENTE,DESCRICAO)" +
-							" VALUES (@id,@descricao);" +
+							("INSERT INTO TAREFA (ID_CLIENTE,DATA_CRIACAO,DESCRICAO)" +
+							" VALUES (@id,@data,@descricao);" +
 							"SELECT CAST(SCOPE_IDENTITY() as int)",
-							 new { id, descricao });
+							 new { id, data, descricao });
 
 					return idInserido;
 				}

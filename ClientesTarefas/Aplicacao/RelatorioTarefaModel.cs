@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace Dominio
+namespace Aplicacao
 {
-	public class RelatorioTarefa
+	public class RelatorioTarefaModel
 	{
 		public int IdTarefa { get; set; }
 

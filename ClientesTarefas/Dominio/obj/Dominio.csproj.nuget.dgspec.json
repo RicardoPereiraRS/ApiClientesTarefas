@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefasMap\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\joserr\\Documents\\Visual Studio 2019\\Projetos\\ClientesTarefas\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,6 +6,6 @@ namespace Aplicacao
 {
 	public interface IRelatorioServico
 	{
-		Task<IEnumerable<RelatorioCliente>> BuscarTodosClientesETarefasAsync();
+		Task<IEnumerable<RelatorioClienteModel>> BuscarTodosClientesETarefasAsync();
 	}
 }

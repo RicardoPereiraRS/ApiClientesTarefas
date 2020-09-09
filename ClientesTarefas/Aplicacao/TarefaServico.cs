@@ -20,7 +20,6 @@ namespace Aplicacao
 
 		public async Task<TarefaModel> IncluirTarefaAsync(int id, DateTime data, string descricao)
 		{
-			data = data.AddYears(2000);
 
 			// se parametro descricao ausente
 			if (!TarefaModel.DescricaoTarefaValida(descricao))
@@ -92,8 +91,6 @@ namespace Aplicacao
 				data = tmpData;
 			}
 
-
-
 			var tarefaDominio = await _tarefaRepositorio.
 				BuscarTarefasContendoEDataMaiorAsync();
 
@@ -101,14 +98,12 @@ namespace Aplicacao
 			if (!string.IsNullOrEmpty(contem))
 			{
 				tarefaDominio = tarefaDominio.Where(tarefa => tarefa.Descricao.Contains(contem));
-
 			}
 
-			if (!(data == null))
+			if (data != null)
 			{
 				tarefaDominio = tarefaDominio.Where(tarefa => tarefa.DataCriacao > data);
 			}
-
 
 			var tarefaModel = tarefaDominio.Select(tarefa => new TarefaModel()
 			{
@@ -119,8 +114,7 @@ namespace Aplicacao
 				Descricao = tarefa.Descricao
 			});
 
-
-			// se não tem dados retorna null
+			// se não tem dados retorna null.
 			if (tarefaModel.Count() == 0)
 			{
 				return null;

@@ -54,3 +54,17 @@ C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicaca
 C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.csproj.CopyComplete
 C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.dll
 C:\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.pdb
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Aplicacao.deps.json
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Aplicacao.dll
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Aplicacao.pdb
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.csprojAssemblyReference.cache
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.AssemblyInfo.cs
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.csproj.CopyComplete
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.dll
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Debug\netcoreapp3.1\Aplicacao.pdb

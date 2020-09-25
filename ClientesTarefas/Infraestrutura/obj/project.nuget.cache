@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "czHVyS8MWnhD2gr87uT2d1otXS3dxdcjSvE00jernTAqjYRajnkRtNVc/tp0V9Z9nQ3h+9timhyqjnx765Qjww==",
+  "dgSpecHash": "UQt7dDieI5bwPVNgt1nHvObLXni96z70jDNX8qzB7AT5jDzZywhKWV+StUvthG7RNOxHYoO0zbNXkXBGZrSujw==",
   "success": true,
-  "projectFilePath": "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj",
+  "projectFilePath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joserr\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\joserr\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.8.20407.11\\microsoft.extensions.configuration.5.0.0-preview.8.20407.11.nupkg.sha512",

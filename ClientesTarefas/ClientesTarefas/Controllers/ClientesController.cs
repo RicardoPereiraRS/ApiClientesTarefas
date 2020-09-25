@@ -1,15 +1,19 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
+using Api.Controllers;
 using Aplicacao;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using Microsoft.VisualBasic;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace ClientesTarefas.Controllers
 {
 	[Route("[controller]")]
 	[ApiController]
-
-	public class ClientesController : ControllerBase
+	public class ClientesController : BaseController
 	{
 		private IClienteServico _clienteServico;
 
@@ -28,18 +32,37 @@ namespace ClientesTarefas.Controllers
 
 		// Busca todos os clientes cadastrados.
 		[HttpGet]
+		
+
 		public async Task<IEnumerable<ClienteModel>> GetAsync()
 		{
+			Console.WriteLine("buscar cliente **************");
+
+
 			return await _clienteServico.BuscarTodosClientesAsync();
 		}
 
 		// Inclui um cliente novo.
+
+		//[HttpPost]
+
+		//public async Task<ClienteModel> Post([FromBody] ClienteModel cliente)
+		//{
+		//	Console.WriteLine("***********_________________*******");
+
+		//	return await _clienteServico.IncluirClienteAsync(cliente.Nome);
+		//}
+
 		[HttpPost]
 
-		public async Task<ClienteModel> PostAsync([FromBody] ClienteModel cliente)
+		public async Task<ClienteModel> Post([FromBody] ClienteModel cliente)
 		{
+			Console.WriteLine("CLIENTE INCLUIDO *****************************");
+
 			return await _clienteServico.IncluirClienteAsync(cliente.Nome);
+
 		}
+
 
 	}
 }

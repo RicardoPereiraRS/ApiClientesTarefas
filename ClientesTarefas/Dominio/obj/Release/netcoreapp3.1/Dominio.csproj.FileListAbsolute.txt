@@ -1,0 +1,8 @@
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\bin\Release\netcoreapp3.1\Dominio.deps.json
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\bin\Release\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\bin\Release\netcoreapp3.1\Dominio.pdb
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Release\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Release\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Release\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Release\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Release\netcoreapp3.1\Dominio.pdb

@@ -747,11 +747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
+      "projectPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\ClientesTarefas\\Api.csproj",
       "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-      "outputPath": "C:\\apiclientestarefas\\ClientesTarefas\\ClientesTarefas\\obj\\",
+      "outputPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\ClientesTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -770,11 +770,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj": {
-              "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj"
+            "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj"
             },
-            "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
-              "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
+            "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
+              "projectPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
             }
           }
         }

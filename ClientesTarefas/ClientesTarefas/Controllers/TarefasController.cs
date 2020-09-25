@@ -4,14 +4,11 @@ using System.Threading.Tasks;
 using Aplicacao;
 using Microsoft.AspNetCore.Mvc;
 
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace Api.Controllers
 {
 	[Route("[controller]")]
 	[ApiController]
-	public class TarefasController : ControllerBase
+	public class TarefasController : BaseController
 	{
 		private ITarefaServico _tarefaServico;
 
@@ -19,7 +16,6 @@ namespace Api.Controllers
 		{
 			_tarefaServico = tarefaServico;
 		}
-
 
 		// Busca todas as tarefas de um cliente.
 		[HttpGet("{id}")]

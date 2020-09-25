@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-        "outputPath": "C:\\apiclientestarefas\\ClientesTarefas\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

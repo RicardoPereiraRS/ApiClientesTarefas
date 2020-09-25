@@ -11,9 +11,8 @@ namespace Api.Controllers
 {
 	[Route("[controller]")]
 	[ApiController]
-	public class RelatorioController : ControllerBase
+	public class RelatorioController : BaseController
 	{
-
 		private IRelatorioServico _relatorioServico;
 
 		public RelatorioController(IRelatorioServico relatorioServico)

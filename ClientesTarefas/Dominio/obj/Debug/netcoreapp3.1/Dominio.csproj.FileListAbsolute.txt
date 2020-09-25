@@ -25,3 +25,12 @@ C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefasMap\Dominio
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefasMap\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefasMap\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\joserr\Documents\Visual Studio 2019\Projetos\ClientesTarefasMap\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

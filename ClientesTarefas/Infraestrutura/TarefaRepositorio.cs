@@ -24,7 +24,7 @@ namespace Infraestrutura
 
 				var tarefaDominio = await connection.QueryAsync<Tarefa>
 					("SELECT t.ID,t.ID_CLIENTE AS idCliente,c.NOME AS nomeCliente," +
-					"t.descricao FROM CLIENTE c " +
+					"t.descricao,t.data_criacao as dataCriacao FROM CLIENTE c " +
 					"INNER JOIN TAREFA t " +
 					"ON c.id = t.ID_CLIENTE " +
 					"WHERE c.id=@id", new { id });

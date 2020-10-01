@@ -52,7 +52,7 @@ namespace ClientesTarefas
 			services.AddCors(options =>
 			{
 				options.AddPolicy("CorsApi",
-					builder => builder.WithOrigins("http://localhost:3000")
+					builder => builder.WithOrigins("*")
 				.AllowAnyHeader()
 				.AllowAnyMethod());
 			});

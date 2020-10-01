@@ -727,11 +727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
+      "projectUniqueName": "C:\\repositorios\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
       "projectName": "Aplicacao",
-      "projectPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
+      "projectPath": "C:\\repositorios\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\Aplicacao.csproj",
       "packagesPath": "C:\\Users\\joserr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Aplicacao\\obj\\",
+      "outputPath": "C:\\repositorios\\apiclientestarefas\\ClientesTarefas\\Aplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -750,8 +750,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
-              "projectPath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
+            "C:\\repositorios\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj": {
+              "projectPath": "C:\\repositorios\\apiclientestarefas\\ClientesTarefas\\Infraestrutura\\Infraestrutura.csproj"
             }
           }
         }

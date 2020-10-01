@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67CBmuNwRN/qU4/8iPkubdJ4q60lp6UpXbxF1Ie1yiNBuqsz0jHoSg0u43u01K8dkEuYwUuSlxNuZy6vsVJWLA==",
+  "dgSpecHash": "AMVq6UVMG3xCXxy0J+1uYL0avUeUmhWdqNrZynzVzhnTGfPZ7e4xcUrwJUDZbtys7R6wRfAaLKM0HEqIPeKfuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joserr\\Desktop\\tarefas\\backend\\ApiClientesTarefas-master\\ClientesTarefas\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\repositorios\\apiclientestarefas\\ClientesTarefas\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -12,3 +12,17 @@ C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefa
 C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.csproj.CopyComplete
 C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.dll
 C:\Users\joserr\Desktop\tarefas\backend\ApiClientesTarefas-master\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.pdb
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Release\netcoreapp3.1\Aplicacao.deps.json
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Release\netcoreapp3.1\Aplicacao.dll
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Release\netcoreapp3.1\Aplicacao.pdb
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Release\netcoreapp3.1\Dominio.dll
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Release\netcoreapp3.1\Infraestrutura.dll
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Release\netcoreapp3.1\Infraestrutura.pdb
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\bin\Release\netcoreapp3.1\Dominio.pdb
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.csprojAssemblyReference.cache
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.AssemblyInfoInputs.cache
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.AssemblyInfo.cs
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.csproj.CoreCompileInputs.cache
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.csproj.CopyComplete
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.dll
+C:\repositorios\apiclientestarefas\ClientesTarefas\Aplicacao\obj\Release\netcoreapp3.1\Aplicacao.pdb
